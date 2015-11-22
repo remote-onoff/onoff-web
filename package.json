@@ -1,0 +1,19 @@
+{
+  "name": "onoff-web",
+  "version": "0.0.1",
+  "description": "Webapp for onoff.",
+  "main": "server.js",
+  "scripts": {
+    "start": "cd site && node ../server.js 4011"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://SrTobi@github.com/remote-onoff/onoff-web.git"
+  },
+  "author": "SirTobi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remote-onoff/onoff-web/issues"
+  },
+  "homepage": "https://github.com/remote-onoff/onoff-web#readme"
+}
